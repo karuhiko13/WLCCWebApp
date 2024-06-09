@@ -276,6 +276,10 @@
     .carousel-item p {
         font-size: 16px !important;
     }
+
+    .carousel-control-next, .carousel-control-prev{
+        width: 50px;
+        
 }
 
 @media (max-width: 768px) {
